@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  A full stack approach with Node.js, ReactJS and React Native.
+  A full stack approach with Node.js, ReactJS and React Native for discovering new GitHub developers around you.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/badge/javascript-86.6%25-yellow">
@@ -22,12 +22,6 @@
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-
-
-
-# DevRadar
-A full stack application for discovering new GitHub developers around you.
-
 
 ## :checkered_flag: Technologies
 
