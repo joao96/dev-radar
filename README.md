@@ -1,4 +1,7 @@
 # DevRadar
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0e1dd43f91b8488e9fc75eb4d839b386)](https://app.codacy.com/manual/joao96/dev-radar?utm_source=github.com&utm_medium=referral&utm_content=joao96/dev-radar&utm_campaign=Badge_Grade_Dashboard)
+
 A full stack application for discovering new GitHub developers around you.
 
 
