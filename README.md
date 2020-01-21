@@ -47,10 +47,6 @@ $ yarn start
 It's recommended that in order to actually run the mobile side, you outght install the [Expo](https://expo.io/) app on your mobile device. Once the application is up on your computer, you shoud see a new tab on your browser with a QR Code. Use the camera on your device to read it.
 
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/react-rocketshoes/blob/master/LICENSE) for more information.
-
-
 ---
 
 ## That's all! 😎
