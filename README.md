@@ -1,3 +1,30 @@
+<h1 align="center">
+    <img alt="React RocketShoes" src="https://arturkilldragon.files.wordpress.com/2019/06/omnistack-wallpaper-1920x1080.png" />
+    <br>
+    DevRadar
+</h1>
+
+<h4 align="center">
+  A full stack approach with Node.js, ReactJS and React Native.
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/javascript-86.6%25-yellow">
+
+  <img alt="GitHub language count" src="https://img.shields.io/badge/languages-3-blue">
+
+  <a href="https://www.codacy.com/manual/joao96/dev-radar?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joao96/dev-radar&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/code%20quality-B-green">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#checkered_flag-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+
+
 # DevRadar
 A full stack application for discovering new GitHub developers around you.
 
